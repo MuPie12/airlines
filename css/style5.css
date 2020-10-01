@@ -1,0 +1,39 @@
+body{
+
+}
+section{
+	width: 80%;
+	margin: auto;
+	border: 1px solid #ccc;
+
+}
+#wrapper{
+	width: 80%
+	margin:auto;
+	padding-left:10px;
+}
+h2{
+	font-size: 1.5em;
+
+}
+.infos-reserv{
+width: 100%;
+margin: 
+}
+.infos-reserv h2{
+	background-color: #E8F0F1;
+}
+.infos-reserv p{
+	font-weight: bold;
+}
+.infos-voyageur h3{
+	background-color: #E8F0F1;
+}
+.num-reserv{
+	font-size: 1.3em;
+	color: red;
+}
+.etat{
+	font-size: 1.3em;
+	color: red;
+}

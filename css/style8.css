@@ -1,0 +1,40 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+#main-wrapper{
+	width: 80%;
+	margin: auto;
+}
+
+#accueil{
+	display: block;
+	text-align: center;
+	margin: auto;
+}
+.bloc-bouton{
+	display: block;
+
+}
+#contenu{
+  width:80% ;
+  margin: auto;
+  text-align: center;
+  
+
+}
+
+.contenu-boutton{
+  width: 100%;
+  margin: auto;
+
+
+}
+{
+	float: right;
+}
+
+/*navbar-right pull-right*/
+
+

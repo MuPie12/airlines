@@ -1,0 +1,34 @@
+body{
+	margin: 
+	padding:;
+}
+#contenu{
+	width: 80%;
+	vertical-align: center;
+	margin: auto;
+}
+.num-reserv{
+	float: right;
+}
+h1{
+	text-align: center;
+}
+h3{
+	border:0px solid black;
+	background-color: #b9d9f7;
+}
+table{
+	width: 70%;
+	border:1px solid black;
+
+}
+sup{
+	top: -.5em;
+}
+.carte-credit{
+	float: right;
+	margin-right: 20px;
+}
+.result {
+	background-color: #c0dded;
+}
